@@ -22,7 +22,7 @@ If you are confident you can manage your finances or are concerned about privacy
 
 ## 4% rule
 
-For gaining financial independence, you need to have big enough corpus so that your annual expenditure is just 4% of your corpus. That way, you have enough money to handle all your expenses post retirement. This takes into account both inflation and returns from your investments.
+For gaining financial independence, you need to build a large corpus so that  you have enough money to handle all your expenses post retirement. General rule of thumb is that you are ready for retirement when your annual expenditure is 4% of your total corpus. This takes into account both inflation and returns from your investments.
 
 For example, if your average monthly expenditure is 1 lakh, then your annual expenditure is 12 lakhs. So you would need an investment of 3 crores to gain financial independence as 4% of 3 crores is 12 lakhs.
 
