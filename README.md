@@ -85,7 +85,7 @@ Debt funds that I have invested in.
 | [HDFC Short Term Debt Fund](https://www.valueresearchonline.com/funds/16151/hdfc-short-term-debt-fund-direct-plan) | 50 |
 | [IDFC Bond Fund Short Term Plan](https://www.valueresearchonline.com/funds/17074/idfc-bond-fund-short-term-plan-direct-plan/) | 50 |
 
-Debt funds were recommended by ValueResearch in its magazine Mutual Fund Insight 17th Anniversary Edition India's Finest Funds.
+Above two debt funds were recommended by ValueResearch in its magazine Mutual Fund Insight 17th Anniversary Edition India's Finest Funds. But you are free to choose your own debt funds based on your research.
 
 You can use following sites to shortlist your mutual funds
 1. [ValueResearch](https://www.valueresearchonline.com/)
