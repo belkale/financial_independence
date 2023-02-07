@@ -131,3 +131,10 @@ Third page draws a charts for
 You can make a copy of [Portfolio Balancer Template](https://docs.google.com/spreadsheets/d/16Wr98U22V81Da3wQFUypWdQO6SrA3uAbjYMc0y6_Oq0/edit?usp=sharing) and use it for your calculations.
 
 Thats all I have to share. Good luck on your journey towards financial independence!
+
+## Helpful Links
+1. [New to mutual funds?](https://www.valueresearchonline.com/stories/51173/the-ultimate-guide-to-mutual-fund-investing)
+2. [The Shockingly Simple Math Behind Early Retirement](https://www.mrmoneymustache.com/2012/01/13/the-shockingly-simple-math-behind-early-retirement/)
+3. [One Idiot - short video on financial independence](https://www.youtube.com/watch?v=vU1l1TB7GzI)
+4. [Brillian vs Boring - invest in passive funds](https://www.npr.org/sections/money/2016/03/04/469247400/episode-688-brilliant-vs-boring)
+5. [Taxation on Mutual Funds](https://cleartax.in/s/different-mutual-funds-taxed)
