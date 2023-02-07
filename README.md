@@ -121,7 +121,7 @@ Update your Google Sheet once at the beginning of every month and invest your mo
 
 First sheet contains current value of your assets across your bank, equity, debt, pf, ppf, etc.
 
-Second page computes your current ratio and how much to invest in equity or debt based on your current bank balance to maintain the ratio at 70:30. Keep at least 6 months of cash in your bank for emergency.
+Second page computes your current ratio and how much to invest in equity or debt based on your current bank balance to maintain the ratio at 70:30. Keep at least 6 months of money (either cash, FD or liquid fund) for emergency.
 
 Third page draws a charts for
 1. Invested amount, its value, projected returns of your investment at 10% over period of time
