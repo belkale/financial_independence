@@ -34,6 +34,8 @@ You can use [How much should I invest?](https://retired.re-ynd.com/how-much-shou
 
 ## 70:30 asset allocation
 
+Please see [How much equity should I hold after retirement?](https://freefincal.com/how-much-equity-should-i-hold-after-retirement/) if you are nearing retirement as 70:30 might be too aggressive for some people.
+
 Maintain a 70:30 asset allocation in your investments. This means 70% of your investments should be in equity and remaining in debt. Even when you invest or withdraw from your investments, you should ensure that your overall asset ratio is maintained at 70:30. You will find this ratio varying with market conditions. Equity fluctuates more than debt. 
 
 Keep a tolerance level of 5% when you do rebalancing. This means if the ratio of equity is within 65%-75% range, you dont have to rebalance. Beyond this range, you might have to move your equity investments to debt or vice versa based on market conditions. Rebalancing might incur income tax. So be careful when you do the rebalancing.
