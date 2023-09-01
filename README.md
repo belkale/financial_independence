@@ -8,7 +8,7 @@ Several of my friends have approached me on how to achieve financial independenc
 
 Ideally, consult a financial planner for managing your finances. There are lot of fee-only financial planners who can help you do proper planning and invest in a systematic fashion. Go for financial planners who charge a flat fee instead of fee based on percentage of your assets. [List of Fee-only Financial Planners in India](https://freefincal.com/list-of-fee-only-financial-planners-in-india/) has a list of fee-only financial planners in India who can help you.
 
-If you are confident you can manage your finances or are concerned about privacy please proceed below to do your own financial planning.
+If you are confident you can manage your finances or are concerned about privacy please proceed below to do your own financial planning. I would also recommend [Lets Talk Money by Monika Halan](https://www.amazon.in/Lets-Talk-Money-Youve-Worked/dp/9352779398) for doing your own financial planning.
 
 **Disclaimer:** Advice below is based on my personal experience and might not work the same for you. Please do sufficient research before investing and don't blindly follow the advice.
 
