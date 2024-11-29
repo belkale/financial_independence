@@ -47,7 +47,7 @@ Another possible asset allocation ratio is
 4. 5% in gold
 
 ### Lumpsum investment/withdrawal
-Always, do lumpsum investment/withdrawal from your debt portion of asset. Then slowly over a period of time(few months) get the ratio back to 70:30. This is because equity is volatile and you cannot time the market.
+If you want to take out/invest a large amount from your investments for reasons like purchase of house, do lumpsum investment/withdrawal from your debt portion of asset. Then slowly over a period of time(few months) get the ratio back to 70:30. This is because equity is volatile and you cannot time the market.
 
 Switch option of mutual funds is useful when you want to slowly move from debt to equity. Switch is possible between funds of the same fund house. You can also schedule switch operation over a period of time which can move funds in a systematic manner. I generally put in liquid fund of the same house and schedule a switch to equity.
 
@@ -97,6 +97,9 @@ You can use following sites to shortlist your mutual funds
 Mutual Fund Insights by ValueResearch is a good magazine for Mutual Funds which you can purchase to keep yourself updated.
 
 Ensure that you dont have too many funds in your portfolio as that makes management difficult and reduces returns. Also ensure that you dont have more than 50% of your assets  or more than 50 lakhs in a single fund to avoid something like [FranklinTempleton Fiasco](https://economictimes.indiatimes.com/mf/analysis/how-franklin-fiasco-happened-and-what-we-learnt-from-it/articleshow/82210625.cms) impacting your assets.
+
+### National Pension Scheme (NPS)
+NPS is a good option to invest for your retirement due to taxation as well as low fund management cost. You can keep around 10%-15% of your investments in NPS. NPS gives you the option of maintaining fixed asset allocation like 70:30 and hence you dont have to rebalance explicitly.
 
 ## Use Google Sheets
 
